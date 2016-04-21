@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Airport/beacon.xml 136.8552957 62.7882269 281.04 108
+OBJECT_SHARED Models/Airport/LFPZ1b.xml 136.8521958 62.78706 280.47 287.4
+OBJECT_SHARED Models/Residential/suburban-area.xml 136.8116784 62.7842757 276.14 0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 136.8397951 62.7868664 282.15 0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 136.8402708 62.7862831 281.45 0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 136.8514645 62.7889112 282.28 0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 136.8521058 62.7883596 281.67 0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 136.8727062 62.7926402 286.07 0
+OBJECT_SHARED Models/Effects/pos_lamp_red_light_2st.xml 136.873198 62.7920591 285.55 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 136.8489902 62.7866972 280.57 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 136.851092 62.7870062 280.57 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 136.8528336 62.787261 280.55 0
+OBJECT_SHARED Models/Communications/Antenna-House.ac 136.8595917 62.7885265 280.82 204.9
+OBJECT_SHARED Models/Communications/Antenna-Pylon.ac 136.8594403 62.788674 280.96 156
+OBJECT_SHARED Models/Airport/Hangar_20mx14m.ac 136.8496259 62.7867441 280.53 197.5
+OBJECT_SHARED Models/Airport/LFDW-Tower.ac 136.8504769 62.7866286 280.33 107.7
+OBJECT_SHARED Models/Aircraft/mil-mi-8-lowpoly.ac 136.8523686 62.7873446 280.67 64
